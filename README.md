@@ -1,0 +1,1 @@
+# Plataform with Vite + GraphQL + GraphQL Code Generator + Tailwind + Vime (Video lib)
