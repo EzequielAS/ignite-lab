@@ -1,6 +1,6 @@
 # Ignite-Lab
 
-## Tecnologias utilizadas:
+### Tecnologias utilizadas:
 <ul>
   <li>Vite</li>
   <li>GraphQL</li>
