@@ -9,7 +9,7 @@
   <li>Vime (Video lib)</li>
 </ul>
 
-# Subscribe Page
+### Subscribe Page
 
 <div 
     style="
@@ -22,7 +22,7 @@
     <img src="./github/home.png">
 </div>
 
-# Event Page
+### Event Page
 
 <div 
     style="
