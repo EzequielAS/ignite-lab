@@ -5,6 +5,7 @@
   <li>Vite</li>
   <li>GraphQL</li>
   <li>GraphQL Code Generator</li>
+  <li>GraphCMS</li>
   <li>Tailwind</li>
   <li>Vime (Video lib)</li>
 </ul>
