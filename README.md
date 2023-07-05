@@ -1,6 +1,6 @@
 # Ignite-Lab
 
-### Tecnologias utilizadas:
+### Important Skills:
 <ul>
   <li>Vite</li>
   <li>GraphQL</li>
